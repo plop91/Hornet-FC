@@ -1,0 +1,5 @@
+#ifndef HORNET_BUZZ_CONFIG
+#define HORNET_BUZZ_CONFIG
+
+
+#endif //HORNET_BUZZ_CONFIG

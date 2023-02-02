@@ -1,0 +1,5 @@
+#ifndef HORNET_BARO_CONFIG
+#define HORNET_BARO_CONFIG
+
+
+#endif //HORNET_BARO_CONFIG

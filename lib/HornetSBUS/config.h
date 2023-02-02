@@ -1,0 +1,7 @@
+#ifndef HORNET_SBUS_CONFIG
+#define HORNET_SBUS_CONFIG
+
+#define SBUS_PWM_MAX 1800
+#define SBUS_PWM_MIN 200
+
+#endif //HORNET_SBUS_CONFIG
